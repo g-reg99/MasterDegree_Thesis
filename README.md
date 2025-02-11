@@ -1,2 +1,2 @@
-# Master's Degree Thesis
-The SHAP method is a modern approach for the interpretation of Machine Learning and Deep Learning models.
+# The SHAP method for interpretability of decisions on fraud detection obtained from machine learning models
+
