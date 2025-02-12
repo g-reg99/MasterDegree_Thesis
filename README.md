@@ -6,4 +6,4 @@ The purpose of this thesis is to show how the SHAP method, its extensions and ap
 
 Specifically, in the experimental phase of this thesis I have reproduced, although with substantial differences, some of the experiments reported in the following papers:
 - PELEGRINA, G. D., DUARTE, L. T., and GRABISCH, M. "A k-additive choquet integral-based approach to approximate the shap values for local interpretability in machine learning". Artificial Intelligence 325 (2023), 104014.
-- LIN, K., AND GAO, Y. "Model interpretability of financial fraud detection by group shap". Expert Systems with Applications 210 (2022), 118354.
+- LIN, K., and GAO, Y. "Model interpretability of financial fraud detection by group shap". Expert Systems with Applications 210 (2022), 118354.
